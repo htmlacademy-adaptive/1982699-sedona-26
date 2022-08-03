@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Екатерина Краснова](https://up.htmlacademy.ru/adaptive/26/user/1982699).
-* Наставник: `Олег Цыганов`.
+* Наставник: [Олег Цыганов](https://htmlacademy.ru/profile/olegtsyganov).
 
 ---
 
